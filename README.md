@@ -91,7 +91,10 @@ Learn how attackers trick users into revealing confidential information.
 - Keep software updated
 - Report suspicious emails
 
----
+## 📄 Presentation
+
+- **PowerPoint:** `Phishing_Awareness_Training.pptx`
+- **PDF Version:** `Phishing_Awareness_Training.pdf`
 
 ## 📸 Screenshots
 
@@ -137,7 +140,7 @@ Then display them in the README:
 1. Clone the repository
 
 ```bash
-git clone https://github.com/YourUsername/CodeAlpha_PhishingAwarenessTraining.git
+git clone https://github.com/Shivanirajora/CodeAlpha_PhishingAwarenessTraining.git
 ```
 
 2. Open the PowerPoint (.pptx) or PDF file.
